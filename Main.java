@@ -3,6 +3,14 @@ public class Main
 {
     public static void main(String[] args)
     {
+        // generate random numbers for dimensions and weight
+        
+
+        // create Package object
+
+
+        // check if it can be sent first class (if not, explain why)
+
 
     }
 
